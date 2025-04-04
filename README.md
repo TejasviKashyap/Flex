@@ -6,16 +6,16 @@ FLEX is an open-source AI-powered assistant designed to help users understand fi
 
 - Tool-calling agent with LangGraph
 - Multi-step tool planning using LLaMA 3.1
-- Real-time data via Polygon API
+- Real-time data via Yahoo Finance and AlphaVantage
 - Search + Extraction via Tavily API
-- Wikipedia and RAG support for educational queries
+- Wikipedia support for educational queries
 
 ## 🧠 Tech Stack
 
-- 🦙 LLaMA 3.1 (HF Transformers)
+- 🦙 LLaMA 3.1 8B/LLaMA 3.1 70B (HF Transformers)
 - 🔄 LangGraph (tool-agent workflows)
 - 🌐 Streamlit frontend
-- 🧰 Tools: Tavily, Polygon, Wikipedia, Vector DB
+- 🧰 Tools: Tavily, Wikipedia, Yahoo Finance, Alphavantage
 
 ## 🚀 Getting Started
 
