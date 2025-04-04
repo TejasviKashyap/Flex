@@ -22,7 +22,7 @@ FLEX is an open-source AI-powered assistant designed to help users understand fi
 1. Clone the repo
 2. Install dependencies:
 ```bash
-pip install foobar
+pip install -r requirements.txt
 ```
 3. Run the app:
 ```bash
